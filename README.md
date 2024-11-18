@@ -5,8 +5,7 @@ As of now, I have implemented the following:
 - **Products and Add-Ons**: Core products and add-ons have been created with pricing details.
 - **Product Bundling**: The GitHub Enterprise Suite bundle has been configured with constraints.
 
-### Record Data
-(to replicate)
+### Record Data (to replicate)
 - [Products JSON](./data/Product2.json)
 - [Product Options JSON](./data/Product2.json)
 - [PriceBooks Entries JSON](./data/PricebookEntry.json)
