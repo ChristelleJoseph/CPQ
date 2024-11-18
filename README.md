@@ -12,7 +12,7 @@ As of now, I have implemented the following:
 
 ### Created Record Data
 To replicate the demo with sample data:
-- [Products JSON](data/Product2.json)
+- [Products JSON](./data/Product2.json)
 - [Product Options JSON](./data/Product2.json)
 - [PriceBooks Entries JSON](./data/PricebookEntry.json)
 
@@ -82,8 +82,8 @@ To replicate the demo with sample data:
 
 ### 5. Quote Templates
 
-#### Custom GitHub-Branded PDF Quotes:
-- Includes logo, branding, and dynamic product breakdowns.
+#### Custom PDF Quotes:
+- Includes product breakdowns.
 - Automatically applies pricing rules and terms.
 
 ---
