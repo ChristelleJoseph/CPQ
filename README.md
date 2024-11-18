@@ -1,4 +1,26 @@
+# 📊 Current Progress (11/18)
+
+### Scope Completed
+As of now, I have implemented the following:
+- **Products and Add-Ons**: Core products and add-ons have been created with pricing details.
+- **Product Bundling**: The GitHub Enterprise Suite bundle has been configured with constraints.
+
+### What's Next
+- (currently) Implementing dynamic pricing rules for volume and bundled discounts.
+- Approval processes for discount thresholds and high-value quotes.
+- Custom quote templates.
+
+### Created Record Data
+To replicate the demo with sample data:
+- [Products JSON](data/Product2.json)
+- [Product Options JSON](./data/Product2.json)
+- [PriceBooks Entries JSON](./data/PricebookEntry.json)
+
+
+---
+
 # 📽️ Demo Video
+
 *(Coming soon)*
 
 ---
@@ -73,4 +95,3 @@
 - **Objects**: Products, Price Books, Quotes, Pricing Rules, Approval Rules.
 - **Automation**: Price rules and approval workflows.
 - **UI Customization**: Quote templates.
-
