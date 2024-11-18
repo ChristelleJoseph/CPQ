@@ -5,10 +5,13 @@ As of now, I have implemented the following:
 - **Products and Add-Ons**: Core products and add-ons have been created with pricing details.
 - **Product Bundling**: The GitHub Enterprise Suite bundle has been configured with constraints.
 
-### Record Data (to replicate)
+### Record Data
+
 - [Products JSON](./data/Product2.json)
 - [Product Options JSON](./data/Product2.json)
 - [PriceBooks Entries JSON](./data/PricebookEntry.json)
+
+**Note**: These files are not directly importable into another org because they contain unique record IDs tied to the source org. They are intended to showcase the structure and relationships between objects.
 
 ### What's Next
 - (currently) Implementing dynamic pricing rules for volume and bundled discounts.
