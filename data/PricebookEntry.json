@@ -1,0 +1,382 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef1"
+            },
+            "UnitPrice": 4,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "Pricebook2": {
+                "attributes": {
+                    "type": "Pricebook2",
+                    "url": "/services/data/v62.0/sobjects/Pricebook2/01s8F000004fWUGQA2"
+                },
+                "Id": "01s8F000004fWUGQA2",
+                "Name": "Standard Price Book",
+                "IsActive": true
+            },
+            "Product2": {
+                "attributes": {
+                    "type": "Product2",
+                    "url": "/services/data/v62.0/sobjects/Product2/01t8F000008ZjacQAC"
+                },
+                "Id": "01t8F000008ZjacQAC",
+                "Name": "GitHub Pro",
+                "SBQQ__SubscriptionPricing__c": "Per User"
+            }
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef2"
+            },
+            "UnitPrice": 4,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "Pricebook2": {
+                "attributes": {
+                    "type": "Pricebook2",
+                    "url": "/services/data/v62.0/sobjects/Pricebook2/01s8F000004fWUGQA2"
+                },
+                "Id": "01s8F000004fWUGQA2",
+                "Name": "Standard Price Book",
+                "IsActive": true
+            },
+            "Product2": {
+                "attributes": {
+                    "type": "Product2",
+                    "url": "/services/data/v62.0/sobjects/Product2/01t8F000008ZjadQAC"
+                },
+                "Id": "01t8F000008ZjadQAC",
+                "Name": "GitHub Team",
+                "SBQQ__SubscriptionPricing__c": "Per User"
+            }
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef3"
+            },
+            "UnitPrice": 2000,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "Pricebook2": {
+                "attributes": {
+                    "type": "Pricebook2",
+                    "url": "/services/data/v62.0/sobjects/Pricebook2/01s8F000004fWUGQA2"
+                },
+                "Id": "01s8F000004fWUGQA2",
+                "Name": "Standard Price Book",
+                "IsActive": true
+            },
+            "Product2": {
+                "attributes": {
+                    "type": "Product2",
+                    "url": "/services/data/v62.0/sobjects/Product2/01t8F000008ZjaeQAC"
+                },
+                "Id": "01t8F000008ZjaeQAC",
+                "Name": "GitHub Enterprise",
+                "SBQQ__SubscriptionPricing__c": "Flat Fee"
+            }
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef4"
+            },
+            "UnitPrice": 40,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "Pricebook2": {
+                "attributes": {
+                    "type": "Pricebook2",
+                    "url": "/services/data/v62.0/sobjects/Pricebook2/01s8F000004fWUGQA2"
+                },
+                "Id": "01s8F000004fWUGQA2",
+                "Name": "Standard Price Book",
+                "IsActive": true
+            },
+            "Product2": {
+                "attributes": {
+                    "type": "Product2",
+                    "url": "/services/data/v62.0/sobjects/Product2/01t8F000008ZjafQAC"
+                },
+                "Id": "01t8F000008ZjafQAC",
+                "Name": "GitHub Codespaces",
+                "SBQQ__SubscriptionPricing__c": "Per User"
+            }
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef5"
+            },
+            "UnitPrice": 10,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "Pricebook2": {
+                "attributes": {
+                    "type": "Pricebook2",
+                    "url": "/services/data/v62.0/sobjects/Pricebook2/01s8F000004fWUGQA2"
+                },
+                "Id": "01s8F000004fWUGQA2",
+                "Name": "Standard Price Book",
+                "IsActive": true
+            },
+            "Product2": {
+                "attributes": {
+                    "type": "Product2",
+                    "url": "/services/data/v62.0/sobjects/Product2/01t8F000008ZjagQAC"
+                },
+                "Id": "01t8F000008ZjagQAC",
+                "Name": "GitHub Copilot",
+                "SBQQ__SubscriptionPricing__c": "Per User"
+            }
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef6"
+            },
+            "UnitPrice": 49,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "Pricebook2": {
+                "attributes": {
+                    "type": "Pricebook2",
+                    "url": "/services/data/v62.0/sobjects/Pricebook2/01s8F000004fWUGQA2"
+                },
+                "Id": "01s8F000004fWUGQA2",
+                "Name": "Standard Price Book",
+                "IsActive": true
+            },
+            "Product2": {
+                "attributes": {
+                    "type": "Product2",
+                    "url": "/services/data/v62.0/sobjects/Product2/01t8F000008ZjahQAC"
+                },
+                "Id": "01t8F000008ZjahQAC",
+                "Name": "GitHub Advanced Security",
+                "SBQQ__SubscriptionPricing__c": "Per User"
+            }
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef7"
+            },
+            "UnitPrice": 2000,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "Pricebook2": {
+                "attributes": {
+                    "type": "Pricebook2",
+                    "url": "/services/data/v62.0/sobjects/Pricebook2/01s8F000004fWUGQA2"
+                },
+                "Id": "01s8F000004fWUGQA2",
+                "Name": "Standard Price Book",
+                "IsActive": true
+            },
+            "Product2": {
+                "attributes": {
+                    "type": "Product2",
+                    "url": "/services/data/v62.0/sobjects/Product2/01t8F000008ZjaiQAC"
+                },
+                "Id": "01t8F000008ZjaiQAC",
+                "Name": "GitHub Premium Support",
+                "SBQQ__SubscriptionPricing__c": "Flat Fee"
+            }
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef8"
+            },
+            "UnitPrice": 4,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "Pricebook2": {
+                "attributes": {
+                    "type": "Pricebook2",
+                    "url": "/services/data/v62.0/sobjects/Pricebook2/01s8F0000050bcAQAQ"
+                },
+                "Id": "01s8F0000050bcAQAQ",
+                "Name": "GitHub CPQ Pricebook",
+                "IsActive": true
+            },
+            "Product2": {
+                "attributes": {
+                    "type": "Product2",
+                    "url": "/services/data/v62.0/sobjects/Product2/01t8F000008ZjacQAC"
+                },
+                "Id": "01t8F000008ZjacQAC",
+                "Name": "GitHub Pro",
+                "SBQQ__SubscriptionPricing__c": "Per User"
+            }
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef9"
+            },
+            "UnitPrice": 4,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "Pricebook2": {
+                "attributes": {
+                    "type": "Pricebook2",
+                    "url": "/services/data/v62.0/sobjects/Pricebook2/01s8F0000050bcAQAQ"
+                },
+                "Id": "01s8F0000050bcAQAQ",
+                "Name": "GitHub CPQ Pricebook",
+                "IsActive": true
+            },
+            "Product2": {
+                "attributes": {
+                    "type": "Product2",
+                    "url": "/services/data/v62.0/sobjects/Product2/01t8F000008ZjadQAC"
+                },
+                "Id": "01t8F000008ZjadQAC",
+                "Name": "GitHub Team",
+                "SBQQ__SubscriptionPricing__c": "Per User"
+            }
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef10"
+            },
+            "UnitPrice": 2000,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "Pricebook2": {
+                "attributes": {
+                    "type": "Pricebook2",
+                    "url": "/services/data/v62.0/sobjects/Pricebook2/01s8F0000050bcAQAQ"
+                },
+                "Id": "01s8F0000050bcAQAQ",
+                "Name": "GitHub CPQ Pricebook",
+                "IsActive": true
+            },
+            "Product2": {
+                "attributes": {
+                    "type": "Product2",
+                    "url": "/services/data/v62.0/sobjects/Product2/01t8F000008ZjaeQAC"
+                },
+                "Id": "01t8F000008ZjaeQAC",
+                "Name": "GitHub Enterprise",
+                "SBQQ__SubscriptionPricing__c": "Flat Fee"
+            }
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef11"
+            },
+            "UnitPrice": 40,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "Pricebook2": {
+                "attributes": {
+                    "type": "Pricebook2",
+                    "url": "/services/data/v62.0/sobjects/Pricebook2/01s8F0000050bcAQAQ"
+                },
+                "Id": "01s8F0000050bcAQAQ",
+                "Name": "GitHub CPQ Pricebook",
+                "IsActive": true
+            },
+            "Product2": {
+                "attributes": {
+                    "type": "Product2",
+                    "url": "/services/data/v62.0/sobjects/Product2/01t8F000008ZjafQAC"
+                },
+                "Id": "01t8F000008ZjafQAC",
+                "Name": "GitHub Codespaces",
+                "SBQQ__SubscriptionPricing__c": "Per User"
+            }
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef12"
+            },
+            "UnitPrice": 10,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "Pricebook2": {
+                "attributes": {
+                    "type": "Pricebook2",
+                    "url": "/services/data/v62.0/sobjects/Pricebook2/01s8F0000050bcAQAQ"
+                },
+                "Id": "01s8F0000050bcAQAQ",
+                "Name": "GitHub CPQ Pricebook",
+                "IsActive": true
+            },
+            "Product2": {
+                "attributes": {
+                    "type": "Product2",
+                    "url": "/services/data/v62.0/sobjects/Product2/01t8F000008ZjagQAC"
+                },
+                "Id": "01t8F000008ZjagQAC",
+                "Name": "GitHub Copilot",
+                "SBQQ__SubscriptionPricing__c": "Per User"
+            }
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef13"
+            },
+            "UnitPrice": 49,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "Pricebook2": {
+                "attributes": {
+                    "type": "Pricebook2",
+                    "url": "/services/data/v62.0/sobjects/Pricebook2/01s8F0000050bcAQAQ"
+                },
+                "Id": "01s8F0000050bcAQAQ",
+                "Name": "GitHub CPQ Pricebook",
+                "IsActive": true
+            },
+            "Product2": {
+                "attributes": {
+                    "type": "Product2",
+                    "url": "/services/data/v62.0/sobjects/Product2/01t8F000008ZjahQAC"
+                },
+                "Id": "01t8F000008ZjahQAC",
+                "Name": "GitHub Advanced Security",
+                "SBQQ__SubscriptionPricing__c": "Per User"
+            }
+        },
+        {
+            "attributes": {
+                "type": "PricebookEntry",
+                "referenceId": "PricebookEntryRef14"
+            },
+            "UnitPrice": 2000,
+            "IsActive": true,
+            "UseStandardPrice": false,
+            "Pricebook2": {
+                "attributes": {
+                    "type": "Pricebook2",
+                    "url": "/services/data/v62.0/sobjects/Pricebook2/01s8F0000050bcAQAQ"
+                },
+                "Id": "01s8F0000050bcAQAQ",
+                "Name": "GitHub CPQ Pricebook",
+                "IsActive": true
+            },
+            "Product2": {
+                "attributes": {
+                    "type": "Product2",
+                    "url": "/services/data/v62.0/sobjects/Product2/01t8F000008ZjaiQAC"
+                },
+                "Id": "01t8F000008ZjaiQAC",
+                "Name": "GitHub Premium Support",
+                "SBQQ__SubscriptionPricing__c": "Flat Fee"
+            }
+        }
+    ]
+}

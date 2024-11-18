@@ -1,0 +1,74 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref1"
+            },
+            "Name": "GitHub Pro",
+            "ProductCode": "GH_PRO",
+            "SBQQ__SubscriptionPricing__c": "Per User",
+            "SBQQ__SubscriptionTerm__c": 12
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref2"
+            },
+            "Name": "GitHub Team",
+            "ProductCode": "GH_TEAM",
+            "SBQQ__SubscriptionPricing__c": "Per User",
+            "SBQQ__SubscriptionTerm__c": 12
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref3"
+            },
+            "Name": "GitHub Enterprise",
+            "ProductCode": "GH_ENT",
+            "SBQQ__SubscriptionPricing__c": "Flat Fee",
+            "SBQQ__SubscriptionTerm__c": 12
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref4"
+            },
+            "Name": "GitHub Codespaces",
+            "ProductCode": "GH_CODESPACES",
+            "SBQQ__SubscriptionPricing__c": "Per User",
+            "SBQQ__SubscriptionTerm__c": 12
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref5"
+            },
+            "Name": "GitHub Copilot",
+            "ProductCode": "GH_COPILOT",
+            "SBQQ__SubscriptionPricing__c": "Per User",
+            "SBQQ__SubscriptionTerm__c": 12
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref6"
+            },
+            "Name": "GitHub Advanced Security",
+            "ProductCode": "GH_ADVSEC",
+            "SBQQ__SubscriptionPricing__c": "Per User",
+            "SBQQ__SubscriptionTerm__c": 12
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref7"
+            },
+            "Name": "GitHub Premium Support",
+            "ProductCode": "GH_SUPPORT",
+            "SBQQ__SubscriptionPricing__c": "Flat Fee",
+            "SBQQ__SubscriptionTerm__c": 12
+        }
+    ]
+}

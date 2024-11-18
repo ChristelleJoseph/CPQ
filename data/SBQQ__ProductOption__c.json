@@ -1,0 +1,84 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "SBQQ__ProductOption__c",
+                "referenceId": "SBQQ__ProductOption__cRef1"
+            },
+            "SBQQ__ConfiguredSKU__c": "01t8F000008ZjaeQAC",
+            "SBQQ__OptionalSKU__c": "01t8F000008ZjafQAC"
+        },
+        {
+            "attributes": {
+                "type": "SBQQ__ProductOption__c",
+                "referenceId": "SBQQ__ProductOption__cRef2"
+            },
+            "SBQQ__ConfiguredSKU__c": "01t8F000008ZjaeQAC",
+            "SBQQ__OptionalSKU__c": "01t8F000008ZjagQAC"
+        },
+        {
+            "attributes": {
+                "type": "SBQQ__ProductOption__c",
+                "referenceId": "SBQQ__ProductOption__cRef3"
+            },
+            "SBQQ__ConfiguredSKU__c": "01t8F000008ZjaeQAC",
+            "SBQQ__OptionalSKU__c": "01t8F000008ZjahQAC"
+        },
+        {
+            "attributes": {
+                "type": "SBQQ__ProductOption__c",
+                "referenceId": "SBQQ__ProductOption__cRef4"
+            },
+            "SBQQ__ConfiguredSKU__c": "01t8F000008ZjaeQAC",
+            "SBQQ__OptionalSKU__c": "01t8F000008ZjaiQAC"
+        },
+        {
+            "attributes": {
+                "type": "SBQQ__ProductOption__c",
+                "referenceId": "SBQQ__ProductOption__cRef5"
+            },
+            "SBQQ__ConfiguredSKU__c": "01t8F000008ZjacQAC",
+            "SBQQ__OptionalSKU__c": "01t8F000008ZjafQAC"
+        },
+        {
+            "attributes": {
+                "type": "SBQQ__ProductOption__c",
+                "referenceId": "SBQQ__ProductOption__cRef6"
+            },
+            "SBQQ__ConfiguredSKU__c": "01t8F000008ZjacQAC",
+            "SBQQ__OptionalSKU__c": "01t8F000008ZjahQAC"
+        },
+        {
+            "attributes": {
+                "type": "SBQQ__ProductOption__c",
+                "referenceId": "SBQQ__ProductOption__cRef7"
+            },
+            "SBQQ__ConfiguredSKU__c": "01t8F000008ZjacQAC",
+            "SBQQ__OptionalSKU__c": "01t8F000008ZjaiQAC"
+        },
+        {
+            "attributes": {
+                "type": "SBQQ__ProductOption__c",
+                "referenceId": "SBQQ__ProductOption__cRef8"
+            },
+            "SBQQ__ConfiguredSKU__c": "01t8F000008ZjadQAC",
+            "SBQQ__OptionalSKU__c": "01t8F000008ZjahQAC"
+        },
+        {
+            "attributes": {
+                "type": "SBQQ__ProductOption__c",
+                "referenceId": "SBQQ__ProductOption__cRef9"
+            },
+            "SBQQ__ConfiguredSKU__c": "01t8F000008ZjadQAC",
+            "SBQQ__OptionalSKU__c": "01t8F000008ZjaiQAC"
+        },
+        {
+            "attributes": {
+                "type": "SBQQ__ProductOption__c",
+                "referenceId": "SBQQ__ProductOption__cRef10"
+            },
+            "SBQQ__ConfiguredSKU__c": "01t8F000008ZjadQAC",
+            "SBQQ__OptionalSKU__c": "01t8F000008ZjafQAC"
+        }
+    ]
+}
