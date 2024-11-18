@@ -1,5 +1,5 @@
 # 📽️ Demo Video
-*(Coming soon, when all configuations is done)*
+*(Coming soon)*
 
 ---
 
@@ -69,13 +69,8 @@
 ## 🛠️ Implementation Details
 
 ### Metadata Configuration
-Includes CPQ-specific metadata:
+
 - **Objects**: Products, Price Books, Quotes, Pricing Rules, Approval Rules.
 - **Automation**: Price rules and approval workflows.
 - **UI Customization**: Quote templates.
 
-### Demo Data
-Sample data to replicate the demo:
-- **Accounts**: Example customers.
-- **Opportunities**: Sample deals.
-- **Quotes**: Preconfigured with pricing rules and products.
