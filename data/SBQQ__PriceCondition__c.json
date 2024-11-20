@@ -1,0 +1,24 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "SBQQ__PriceCondition__c",
+                "referenceId": "SBQQ__PriceCondition__cRef1"
+            },
+            "SBQQ__Field__c": "SBQQ__Quantity__c",
+            "SBQQ__Operator__c": "greater or equals",
+            "SBQQ__Value__c": "500",
+            "SBQQ__Rule__c": "a0c8F000002K1GRQA0"
+        },
+        {
+            "attributes": {
+                "type": "SBQQ__PriceCondition__c",
+                "referenceId": "SBQQ__PriceCondition__cRef2"
+            },
+            "SBQQ__Field__c": "SBQQ__Quantity__c",
+            "SBQQ__Operator__c": "greater or equals",
+            "SBQQ__Value__c": "1000",
+            "SBQQ__Rule__c": "a0c8F000002K1GWQA0"
+        }
+    ]
+}

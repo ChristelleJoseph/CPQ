@@ -1,0 +1,22 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "SBQQ__PriceRule__c",
+                "referenceId": "SBQQ__PriceRule__cRef1"
+            },
+            "Name": "20% Discount for 1,000+ Users",
+            "SBQQ__ConditionsMet__c": "All",
+            "SBQQ__Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "SBQQ__PriceRule__c",
+                "referenceId": "SBQQ__PriceRule__cRef2"
+            },
+            "Name": "10% Discount for 500+ Users",
+            "SBQQ__ConditionsMet__c": "All",
+            "SBQQ__Active__c": true
+        }
+    ]
+}

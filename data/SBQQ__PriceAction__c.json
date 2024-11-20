@@ -1,0 +1,22 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "SBQQ__PriceAction__c",
+                "referenceId": "SBQQ__PriceAction__cRef1"
+            },
+            "SBQQ__Field__c": "Discount (%)",
+            "SBQQ__Value__c": "20",
+            "SBQQ__Rule__c": "a0c8F000002K1GWQA0"
+        },
+        {
+            "attributes": {
+                "type": "SBQQ__PriceAction__c",
+                "referenceId": "SBQQ__PriceAction__cRef2"
+            },
+            "SBQQ__Field__c": "Discount (%)",
+            "SBQQ__Value__c": "10",
+            "SBQQ__Rule__c": "a0c8F000002K1GRQA0"
+        }
+    ]
+}
