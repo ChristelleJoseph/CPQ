@@ -1,4 +1,4 @@
-# 📊 Current Progress (11/18)
+# 📊 Current Progress (11/19)
 
 ### Scope Completed
 As of now, I have implemented the following:
@@ -11,10 +11,15 @@ As of now, I have implemented the following:
 - [Product Options JSON](./data/Product2.json)
 - [PriceBooks Entries JSON](./data/PricebookEntry.json)
 
+- [Price Rule JSON](./data/SBQQ__PriceRule__c.json)
+- [Price Condition JSON](./data/SBQQ__PriceCondition__c.json)
+- [Price Action JSON](./data/SBQQ__PriceAction__c.json)
+
+
 **Note**: These files are not directly importable into another org because they contain unique record IDs tied to the source org. They are intended to showcase the structure and relationships between objects.
 
 ### What's Next
-- (currently) Implementing dynamic pricing rules for volume and bundled discounts.
+- Implementing dynamic pricing rules for volume and (currently) bundled discounts.
 - Approval processes for discount thresholds and high-value quotes.
 - Custom quote templates.
 
