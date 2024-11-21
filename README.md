@@ -1,4 +1,4 @@
-# 📊 Current Progress (11/19)
+# 📊 Current Progress (11/21)
 
 ### Scope Completed
 As of now, I have implemented the following:
@@ -19,7 +19,6 @@ As of now, I have implemented the following:
 **Note**: These files are not directly importable into another org because they contain unique record IDs tied to the source org. They are intended to showcase the structure and relationships between objects.
 
 ### What's Next
-- Implementing dynamic pricing rules for volume and (currently) bundled discounts.
 - Approval processes for discount thresholds and high-value quotes.
 - Custom quote templates.
 
